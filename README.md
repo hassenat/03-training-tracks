@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Hassenat Hussien
 
-Track Name: 
+Track Name: Mobile App development
 
-Track Description: 
+Track Description: Android
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
